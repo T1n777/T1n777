@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there! 
 
 I'm **Yatin**, a CS student diving deep into the world of technology and innovation.
 
